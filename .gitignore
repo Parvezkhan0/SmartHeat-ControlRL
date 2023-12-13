@@ -1,0 +1,6 @@
+.idea/*
+*.pyc
+*.pkl
+*.csv
+*.xls
+*.pt
