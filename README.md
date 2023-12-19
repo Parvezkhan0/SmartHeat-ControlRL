@@ -1,5 +1,6 @@
 # heating-RL-agent
 
+By Parvez Khan
 
 This repo implements a deep reinforcement learning based home energy management system. It features both a [Deep Q-Learning](https://arxiv.org/abs/1312.5602) algorithm as well as a [Deep Deterministic Policy Gradient](https://arxiv.org/abs/1509.02971) solution. Built with Python & Pytorch.
 
